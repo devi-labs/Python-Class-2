@@ -1,6 +1,6 @@
 """
 x = "Happy Mothers Day! " 
-y = "Sonia Dhawan" 
+y = "Sonia" 
 z = "Devina" 
 b = "Gina"
 age = "87"
@@ -15,10 +15,10 @@ print (x+y)
                My name is Devina
            This was written on 05/08/2022
 """
-name = input("Hey GURLLLL whats your name?: ")
-print ("OOOO! HEY GURL NAMED: "+ name)
+name = input("Hey, whats your name?: ")
+print ("OOOO! A Girl Named: "+ name)
 number = input("Whats your number?!")
-print ("imaaaaa call you at: " + number)
+print ("I'll give you a call at: " + number)
 
 
 
